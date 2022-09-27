@@ -1,0 +1,35 @@
+body {
+  background-color: #fff;
+  padding: 0px;
+  margin: 18px 0 13px 0;
+}
+pre {
+  position: absolute;
+  color: #000;
+  text-align: center;
+  margin: 0;
+  left: 50%;
+  width: 20px;
+  margin-left: -11px;
+}
+pre.man-top {
+  top: 0;
+}
+pre.man-bottom {
+  bottom: 0;
+}
+
+div.man-middle {
+  width: 0px;
+  border-left: 1px solid #000;
+  height: 100%;
+  margin: 0px auto 0px auto;
+}
+
+img.thetallboke {
+  display: inline-block;
+  bottom: 0px;
+  position: absolute;
+  right: 0px;
+  width: 10%;
+}
