@@ -19,5 +19,5 @@ You can click the Preview link to take a look at your changes.
 
 Useful Sites:
 <ul>
-  <li>https://houdini.onrender.com/ - Has a bunch of useful tools</li>
+  <li>https://houdini.onrender.com - Has a bunch of useful tools</li>
 </ul>
