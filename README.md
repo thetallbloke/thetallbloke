@@ -28,7 +28,7 @@ Useful Sites:
     <tr><td><a href='https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c' target='_blank'>https://medium.com/swlh/the-five-levels-of-remote-work-and-why-youre-probably-at-level-2-ccaf05a25b9c<a></td><td></td></tr>
     <tr><td><a href='https://www.cyber.gov.au/acsc/view-all-content/publications/essential-eight-maturity-model' target='_blank'>https://www.cyber.gov.au/acsc/view-all-content/publications/essential-eight-maturity-model<a></td><td></td></tr>
     <tr><td><a href='https://www.oneschema.co' target='_blank'>https://www.oneschema.co<a></td><td></td></tr>
-    <tr><td><a href='https://www.kiva.org' target='_blank'>https://www.kiva.org<a></td><td></td></tr>
+    <tr><td><a href='https://www.kiva.org' target='_blank'>https://www.kiva.org<a></td><td>Provide cash loans to small business owners in developing countries.</td></tr>
     <tr><td><a href='https://think-like-a-git.net' target='_blank'>https://think-like-a-git.net<a></td><td></td></tr>
   <tfoot><tr><td></td><td></td></tr></tfoot>
 </table>
